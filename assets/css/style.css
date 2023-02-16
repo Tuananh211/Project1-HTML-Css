@@ -19,6 +19,9 @@ body {
 a {
     text-decoration: none;
 }
+.active {
+    text-decoration: underline;
+}
 .btn {
     display: inline-block;
     min-width: 98px;
